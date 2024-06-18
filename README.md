@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayo-do-code
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on php.
+- 🌱 I’m currently learning html, css, javascript.
+- 💞️ I’m looking to collaborate on react.
 - 📫 How to reach me @sanmtmg.
 
 <!---
